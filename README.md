@@ -16,7 +16,7 @@ Inspired by:
 
 #### 1. Deploy https://github.com/shibayan/keyvault-acmebot as you prefer 
 
-#### 2. Provisioning a Azure Function-app for AcmeBot.Domeneshop.provider as you prefer.
+#### 2. Provisioning a Azure Function-app for AcmeBot.Domeneshop.provider as you prefer (Python 3.10).
 
 #### 3. Deploy AcmeBot.Domeneshop.provider `src`-folder to the Azure Function-app
 
